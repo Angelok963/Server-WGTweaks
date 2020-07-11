@@ -1,0 +1,7 @@
+﻿name: WGTweaks
+version: 0.1
+main: com.angelok963.interactprevention.Main
+depend: [WorldGuard]
+commands:
+  wgtweaksreload:
+    description: Menage wgtweaks plugin
